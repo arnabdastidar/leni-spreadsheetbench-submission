@@ -53,11 +53,4 @@ submission guidelines. Nothing else.
   evaluation database record of the April run exactly (0 discrepancies).
 - All 400 output files verified one-to-one against the export manifest.
 
-## Reproducibility
-
-The complete run-level evaluation record behind our published research
-(including development runs and unfavorable results) is public at
-https://github.com/arnabdastidar/leni-agent-evals. This submission
-repository is kept separate and minimal by design.
-
 Contact: Arunabh Dastidar, CEO & Founder, Leni Inc. — arunabh@leni.co
