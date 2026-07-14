@@ -44,8 +44,7 @@ submission guidelines. Nothing else.
    per-task error diagnostics for the 35 failures). The run is labeled
    `mode: official-with-metadata-tolerance`; value comparison is strict
    (see failure diagnostics, e.g. a fail on 5279.174999999999 vs
-   5279.175). We are happy to re-run under any evaluator configuration
-   you require and will accept your re-evaluation as authoritative.
+   5279.175).
 
 ## Verification we performed before submitting
 
