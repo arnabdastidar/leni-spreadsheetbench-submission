@@ -25,9 +25,9 @@ submission guidelines. Nothing else.
   prompt. No benchmark-specific tuning.
 - Verification loop: after each edit, formulas are recalculated with
   LibreOffice headless, values are read back via openpyxl
-  (data_only=True), and a small post-trained verifier model compares the
-  recalculated cells against task intent; at most two fix iterations,
-  then a final recalculation pass.
+  (data_only=True), and Leni-Cell-S, our small post-trained verifier
+  model, compares the recalculated cells against task intent; at most
+  two fix iterations, then a final recalculation pass.
 - Configuration ID: `spreadsheetbench_direct_codeagent-v3-final`.
 
 ## Contents (mapped to the submission guidelines)
